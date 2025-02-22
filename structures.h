@@ -21,8 +21,8 @@ struct b_32 {
 
 typedef struct b_128 b_128;
 typedef struct b_96 b_96;
-typedef struct b_96 b_64;
-typedef struct b_96 b_32;
+typedef struct b_64 b_64;
+typedef struct b_32 b_32;
 
 
 
